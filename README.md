@@ -6,8 +6,6 @@
 
 백준허브로 자동 커밋됩니다!
 
-<img src="https://github.com/user-attachments/assets/39c42eb2-17bf-49aa-b3af-0e3158665c38" width="550" />
-
 <br>
 
 ## Language 
